@@ -8,6 +8,7 @@ import { DoctorsScheduleComponent } from './doctors-schedule/doctors-schedule.co
 import {DoctorsService} from './doctors-schedule/DoctorsService';
 import {NgbModule, NgbTabsetConfig} from '@ng-bootstrap/ng-bootstrap';
 import {TabsModule} from 'ngx-tabs';
+import {DateFormatPipe} from './date-format.pipe';
 
 
 @NgModule({
@@ -19,7 +20,7 @@ import {TabsModule} from 'ngx-tabs';
   declarations: [AppComponent,
     DoctorsScheduleComponent],
   bootstrap: [AppComponent],
-  providers: [DoctorsService, NgbTabsetConfig]
+  providers: [DoctorsService, NgbTabsetConfig, DateFormatPipe]
 })
 export class AppModule {
 }
