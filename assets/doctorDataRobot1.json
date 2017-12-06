@@ -1,0 +1,266 @@
+[{
+    "week":"Week 1",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+  "Tuesday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "Moore"
+      },
+      "PM" :{
+        "doctor": "K. Nelson"
+      }
+    }
+  },
+  "Wednesday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "Gowda/Glazier"
+      },
+      "PM" :{
+        "doctor": "Gowda/Glazier"
+      }
+    }
+  },
+  "Thursday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "K. Nelson / Cote (alt)"
+      },
+      "PM" :{
+        "doctor": "Jung"
+      }
+    }
+  },
+  "Friday":{
+    "schedule":{
+      "AM" :{
+        "doctor": ""
+      },
+      "PM" :{
+        "doctor": ""
+      }
+    }
+  }
+  },
+  {
+    "week":"Week 2",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "K. Nelson"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Gowda/Glazier"
+        },
+        "PM" :{
+          "doctor": "Gowda/Glazier"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "K. Nelson / Cote (alt)"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 3",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "K. Nelson"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Gowda/Glazier"
+        },
+        "PM" :{
+          "doctor": "Gowda/Glazier"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "K. Nelson / Cote (alt)"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 4",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "K. Nelson"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Gowda/Glazier"
+        },
+        "PM" :{
+          "doctor": "Gowda/Glazier"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "K. Nelson / Cote (alt)"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 5",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Moore"
+        },
+        "PM" :{
+          "doctor": "K. Nelson"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Gowda/Glazier"
+        },
+        "PM" :{
+          "doctor": "Gowda/Glazier"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "K. Nelson / Cote (alt)"
+        },
+        "PM" :{
+          "doctor": "Jung"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,266 @@
+[{
+    "week":"Week 1",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "R. Nelson"
+        },
+        "PM" :{
+          "doctor": "R. Nelson"
+        }
+      }
+    },
+  "Tuesday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "Bradford"
+      },
+      "PM" :{
+        "doctor": "Gentry"
+      }
+    }
+  },
+  "Wednesday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "Bradford"
+      },
+      "PM" :{
+        "doctor": "Moore"
+      }
+    }
+  },
+  "Thursday":{
+    "schedule":{
+      "AM" :{
+        "doctor": "Glazier"
+      },
+      "PM" :{
+        "doctor": "Glazier/Lippmann"
+      }
+    }
+  },
+  "Friday":{
+    "schedule":{
+      "AM" :{
+        "doctor": ""
+      },
+      "PM" :{
+        "doctor": " "
+      }
+    }
+  }
+  },
+  {
+    "week":"Week 2",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Rowe"
+        },
+        "PM" :{
+          "doctor": ""
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Monahan"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Moore"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Glazier"
+        },
+        "PM" :{
+          "doctor": "Glazier/Lippmann"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 3",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "R. Nelson"
+        },
+        "PM" :{
+          "doctor": "R. Nelson"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Gentry"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Moore"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Glazier"
+        },
+        "PM" :{
+          "doctor": "Glazier/Lippmann"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 4",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Rowe"
+        },
+        "PM" :{
+          "doctor": ""
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Monahan"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Moore"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Glazier"
+        },
+        "PM" :{
+          "doctor": "Glazier/Lippmann"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  },
+  {
+    "week":"Week 5",
+    "Monday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "R. Nelson"
+        },
+        "PM" :{
+          "doctor": "R. Nelson"
+        }
+      }
+    },
+    "Tuesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Gentry"
+        }
+      }
+    },
+    "Wednesday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Bradford"
+        },
+        "PM" :{
+          "doctor": "Moore"
+        }
+      }
+    },
+    "Thursday":{
+      "schedule":{
+        "AM" :{
+          "doctor": "Glazier"
+        },
+        "PM" :{
+          "doctor": "Glazier/Lippmann"
+        }
+      }
+    },
+    "Friday":{
+      "schedule":{
+        "AM" :{
+          "doctor": ""
+        },
+        "PM" :{
+          "doctor": " "
+        }
+      }
+    }
+  }
+]
