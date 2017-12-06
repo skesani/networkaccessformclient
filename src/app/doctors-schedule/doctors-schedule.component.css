@@ -1,0 +1,14 @@
+/*
+table tr:nth-child(odd) td{
+  color: #46C5F9;
+}
+table tr:nth-child(even) td{
+  color: darkblue;
+}
+*/
+
+td, tr, th{
+  color: #141823;
+  font-style: italic;
+  font-size: 14px;
+}

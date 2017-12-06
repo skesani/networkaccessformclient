@@ -1,0 +1,102 @@
+<div style="display: inline; margin: 10px;"><img src="../../assets/HCA.png" width="400px"><img src="../../assets/VU.png" width="400px"></div>
+
+<div class="container" style="margin-top: 50px">
+<div class="row">
+  <tabset [pills]="true">
+    <tab title="Robot #1" style="margin: 5px;">
+      <table class="table table-bordered table-striped">
+        <tr>
+          <th >Week</th>
+          <th >Monday</th>
+          <th >Tuesday</th>
+          <th >Wednesday</th>
+          <th >Thursday </th>
+          <th >Friday </th>
+        </tr>
+        <tr *ngFor="let doc of doctorScheduleRobot1; let i = index">
+          <td *ngIf="doc.week == 'Week 1'">{{doc.week}} ({{this.week1}})</td>
+          <td *ngIf="doc.week == 'Week 2'">{{doc.week}} ({{this.week2}})</td>
+          <td *ngIf="doc.week == 'Week 3'">{{doc.week}} ({{this.week3}})</td>
+          <td *ngIf="doc.week == 'Week 4'">{{doc.week}} ({{this.week4}})</td>
+          <td *ngIf="doc.week == 'Week 5'">{{doc.week}} ({{this.week5}})</td>
+          <td>
+            {{doc.Monday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Monday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Tuesday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Tuesday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Wednesday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Wednesday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Thursday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Thursday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Friday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Friday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+        </tr>
+      </table>
+    </tab>
+    <tab title="Robot #2" style="margin: 5px;">
+      <table class="table table-bordered table-striped">
+        <tr>
+          <th >Week</th>
+          <th >Monday</th>
+          <th >Tuesday</th>
+          <th >Wednesday</th>
+          <th >Thursday </th>
+          <th >Friday </th>
+        </tr>
+        <tr *ngFor="let doc of doctorScheduleRobot2; let i = index">
+          <td *ngIf="doc.week == 'Week 1'">{{doc.week}} ({{this.week1}})</td>
+          <td *ngIf="doc.week == 'Week 2'">{{doc.week}} ({{this.week2}})</td>
+          <td *ngIf="doc.week == 'Week 3'">{{doc.week}} ({{this.week3}})</td>
+          <td *ngIf="doc.week == 'Week 4'">{{doc.week}} ({{this.week4}})</td>
+          <td *ngIf="doc.week == 'Week 5'">{{doc.week}} ({{this.week5}})</td>
+          <td>
+            {{doc.Monday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Monday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Tuesday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Tuesday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Wednesday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Wednesday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Thursday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Thursday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+          <td>
+            {{doc.Friday.schedule.AM.doctor}}&nbsp;(AM)
+            <br/>
+            {{doc.Friday.schedule.PM.doctor}}&nbsp;(PM)
+          </td>
+        </tr>
+      </table>
+    </tab>
+  </tabset>
+  <h1>Robotics Trained MDs</h1>
+  <table class="table table-bordered table-striped">
+    <tr>
+      <td  *ngFor="let docs of doctors"> {{docs}} </td>
+    </tr>
+  </table>
+</div>
+</div>
