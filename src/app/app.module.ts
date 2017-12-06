@@ -17,10 +17,9 @@ import {DateFormatPipe} from './date-format.pipe';
         { path: 'doctors', component: DoctorsScheduleComponent}
     ])
   ],
-  declarations: [AppComponent,
-    DoctorsScheduleComponent],
+  declarations: [AppComponent, DateFormatPipe, DoctorsScheduleComponent],
   bootstrap: [AppComponent],
-  providers: [DoctorsService, NgbTabsetConfig, DateFormatPipe]
+  providers: [DoctorsService, NgbTabsetConfig]
 })
 export class AppModule {
 }
