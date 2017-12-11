@@ -43,10 +43,10 @@
   "Friday":{
     "schedule":{
       "AM" :{
-        "doctor": ""
+        "doctor": "TBD"
       },
       "PM" :{
-        "doctor": ""
+        "doctor": "TBD"
       }
     }
   }
@@ -96,10 +96,10 @@
     "Friday":{
       "schedule":{
         "AM" :{
-          "doctor": ""
+          "doctor": "TBD"
         },
         "PM" :{
-          "doctor": " "
+          "doctor": "TBD"
         }
       }
     }
@@ -149,10 +149,10 @@
     "Friday":{
       "schedule":{
         "AM" :{
-          "doctor": ""
+          "doctor": "TBD"
         },
         "PM" :{
-          "doctor": " "
+          "doctor": "TBD"
         }
       }
     }
@@ -202,10 +202,10 @@
     "Friday":{
       "schedule":{
         "AM" :{
-          "doctor": ""
+          "doctor": "TBD"
         },
         "PM" :{
-          "doctor": " "
+          "doctor": "TBD"
         }
       }
     }
@@ -255,10 +255,10 @@
     "Friday":{
       "schedule":{
         "AM" :{
-          "doctor": ""
+          "doctor": "TBD"
         },
         "PM" :{
-          "doctor": " "
+          "doctor": "TBD"
         }
       }
     }
